@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/home/jupyter-22010161@st.phenik-1b901/gitclone/FireDragon0ou1/ThanhTa'
+let g:netrw_dirhist_7='/home/jupyter-22010161@st.phenik-1b901/gitclone/FireDragon0ou1'
+let g:netrw_dirhist_6='/home/jupyter-22010161@st.phenik-1b901/gitclone/FireDragon0ou1/ThanhTa'
+let g:netrw_dirhist_5='/home/jupyter-22010161@st.phenik-1b901/gitclone/FireDragon0ou1'
+let g:netrw_dirhist_4='/home/jupyter-22010161@st.phenik-1b901/gitclone'
+let g:netrw_dirhist_3='/home/jupyter-22010161@st.phenik-1b901'
+let g:netrw_dirhist_2='/home/jupyter-22010161@st.phenik-1b901/gitclone'
+let g:netrw_dirhist_1='/home/jupyter-22010161@st.phenik-1b901/gitclone/FireDragon0ou1'
